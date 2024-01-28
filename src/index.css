@@ -1,0 +1,7 @@
+.special-finder{
+  margin-bottom: 10px;
+}
+
+.special-finder > span i {
+  color: red;
+}
